@@ -8,27 +8,27 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['201020260148', 'Ayanakoji', true],
-  ['201020260148', 'Ayanakoji', true],
-  ['201020260148', 'Ayanakoji', true],
-  ['201020260148', 'Ayanakoji', true],
-  ['201287993468', 'Ayanakoji', true],
-  ['201287993468', 'Ayanakoji', true],
-  ['201287993468', 'Ayanakoji', true],
-  ['201287993468', 'Ayanakoji', true],
-  ['201020260148'],
-  ['201020260148'],
-  ['201020260148'],
-  ['201287993468'],
-  ['201287993468']
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938', 'baji', true],
+  ['9647845733938'],
+  ['9647845733938'],
+  ['9647845733938'],
+  ['9647845733938'],
+  ['9647845733938']
 ] 
-global.suittag = ['201020260148'] 
-global.prems = ['201020260148'] 
+global.suittag = ['9647845733938'] 
+global.prems = ['9647845733938'] 
 
-global.packname = 'Miku bot'
-global.author = '❤️‍🔥~°ᎯᎽᎯᏁᎯᏦᏫᎫᎥ!°~⛩️📛'
-global.wm = 'Miku - Bot'
-global.igfg = 'Miku - Bot'
+global.packname = 'baji bot'
+global.author = '❤️‍🔥~°baji!°~⛩️📛'
+global.wm = 'baji - Bot'
+global.igfg = 'baji - Bot'
 global.wait = '*[❗] انتظر لحظه...*'
 function _0x59a4(_0x46c0ff,_0x198c34){var _0x453459=_0x4534();return _0x59a4=function(_0x59a4a4,_0x4efd80){_0x59a4a4=_0x59a4a4-0x9e;var _0x108e75=_0x453459[_0x59a4a4];return _0x108e75;},_0x59a4(_0x46c0ff,_0x198c34);}var _0x583757=_0x59a4;function _0x4534(){var _0x3f1eec=['1365133AXfwgB','انتظر\x20قليلا\x20يا\x20عزيزي\x20:\x20▮▮▯\x0a\x20تابعني\x20علي\x20صفحاتي\x20من هنا\x20\x0a\x0ahttps://atom.bio/ayanakoji','1610710hLobLZ','8wNspVD','786139FZiPQy','12SaSXPH','1040104rTzHFk','858441luSIQe','3718985xnKZMM','4396644QxZNfF','18HasQLA'];_0x4534=function(){return _0x3f1eec;};return _0x4534();}(function(_0x49c1f1,_0x57b9b4){var _0x3f3ba0=_0x59a4,_0x219991=_0x49c1f1();while(!![]){try{var _0x16cb23=parseInt(_0x3f3ba0(0xa0))/0x1+parseInt(_0x3f3ba0(0xa2))/0x2+parseInt(_0x3f3ba0(0xa3))/0x3*(-parseInt(_0x3f3ba0(0xa1))/0x4)+parseInt(_0x3f3ba0(0xa4))/0x5+-parseInt(_0x3f3ba0(0xa5))/0x6+-parseInt(_0x3f3ba0(0xa7))/0x7*(parseInt(_0x3f3ba0(0x9f))/0x8)+parseInt(_0x3f3ba0(0xa6))/0x9*(parseInt(_0x3f3ba0(0x9e))/0xa);if(_0x16cb23===_0x57b9b4)break;else _0x219991['push'](_0x219991['shift']());}catch(_0x3aea7e){_0x219991['push'](_0x219991['shift']());}}}(_0x4534,0x8f0a8),global['wait']=_0x583757(0xa8));
 global.openai_key =  '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'
